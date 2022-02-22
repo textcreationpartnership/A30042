@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Quakers yearly metting [sic] or convocation impeached on the behalf of the Commons of England by Francis Bugg.</title>
+            <author>Bugg, Francis, 1640-1724?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30042</idno>
+            <idno type="STC">Wing B5391</idno>
+            <idno type="STC">ESTC R23821</idno>
+            <idno type="EEBO-CITATION">07912178</idno>
+            <idno type="OCLC">ocm 07912178</idno>
+            <idno type="VID">40375</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30042)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40375)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1199:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Quakers yearly metting [sic] or convocation impeached on the behalf of the Commons of England by Francis Bugg.</title>
+                  <author>Bugg, Francis, 1640-1724?</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author, and are to be sold by John Guillam,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:40375:1"/>
+            <pb n="1" facs="tcp:40375:1" rendition="simple:additions"/>
+            <head>The <hi>QUAKERS</hi> Yearly Metting or Convocation Impeached on the behalf of the Commons of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> by <hi>Francis Bugg.</hi> An Apologitical Introduction.</head>
+            <p>
+               <hi>Courteous Reader,</hi>
+            </p>
+            <p>MArvel not that I purſue the Quakers into their ſtrong Hold, That I have beſieged their City <hi>Abel,</hi> 2 <hi>Sam.</hi> 20. and caſt a Trench about it, and hem'd it round on every ſide, inſomuch that <hi>Sheba</hi> the Son of <hi>Bichri,</hi> aliàs <hi>George Whitehead,</hi> cannot get out nor clear himſelf, unleſs he Retract and Condemn thoſe Errors and pernicious Principles which he hath vindicated in his own and his Bre<g ref="char:EOLhyphen"/>threns Books, with which he and them ſtand charged in my Book <hi>Quaker<g ref="char:EOLhyphen"/>iſm Withering, and Chriſtianity Reviving,</hi> &amp;c. p. 3, 4. and <hi>New Rome Arraign<g ref="char:EOLhyphen"/>ed,</hi> &amp;c. both ſold by Mr. <hi>Guillam</hi> Bookſeller in <hi>Biſhops-gate-ſtreet, London.</hi> No; thou haſt no cauſe to think it ſtrange, that the ſame Cup this painted Harlot hath ſo plentifully fill'd to others, ſhould be now fill'd to her, yea, even the Dregs thereof: For who have wrote more than the Quakers? whoever expos'd the Profeſſors of Chriſtianity more than they? Have they not this forty years, and more, laid Siege againſt the Chriſtian Reputation of both Magiſtrates and Miniſters? rendring the firſt in their Narratives of their Trials, the <hi>Pharoahs, Nebuchadnezzars,</hi> &amp;c. and themſelves the only <hi>Daniels</hi> of the Age. The ſecond, in their Book ſtil'd, <hi>A Diſcovery of a three<g ref="char:EOLhyphen"/>fold Eſtate of Antichriſt,</hi> &amp;c. <hi>Conjurers, Thieves, Antichriſts, Witches, Devils, Baal's Prieſts, yea, Hell-hounds, whoſe Commiſſion and Call came from</hi> Oxford <hi>and</hi> Cambridge; <hi>crying Woe and Miſery to the upholders (whether Kings or Parliaments) of that treacherous Crew and deceitful Generation.</hi> But <hi>William Pen</hi> in his late Book ſtiled <hi>The Guide Miſtaken,</hi> &amp;c. goes a little farther, <hi>viz. Whilſt the idle gormondizing Prieſts of</hi> England <hi>run away with above</hi> 150000<hi> l. a year, under pretence of being God's Miniſters — And that no ſort of people have been ſo univerſally through Ages, the very bane of Soul and Body of the Univerſe, as that abominable Tribe for whom the Theatre of God's moſt dreadful Vengeance is reſerved to act their Eternal Tragedy upon,</hi> &amp;c. I ſay, can'ſt thou behold theſe their Pamphlets ſpread up and down the Nation, and not be amazed at their Impudence? 'Tis not a year ſince it fell to my lot to Ad<g ref="char:EOLhyphen"/>miniſter on the Goods of a deceaſed poor Widow, a Quaker, whoſe Sub<g ref="char:EOLhyphen"/>ſtance did not amount to 10 <hi>l.</hi> yet ſhe was ſo well ſtored, that ſhe had by
+<pb n="2" facs="tcp:40375:2"/> her more than 200 printed Books and Pamphlets of the Quakers writing, enough to infect a Nation, their chief tendency being againſt Magiſtracy and Miniſtry, and all inſtituted Religion; and yet none ſo bad, none ſo groſs, none ſo blaſphemons, but <hi>George Whitehead</hi> the Quakers <hi>Bellarmine,</hi> will undertake to vindicate them, who for this 40 years and upward hath been like <hi>Iſhmael,</hi> his hand againſt Epiſcopalians, Presbyterians, Indepen<g ref="char:EOLhyphen"/>dants and Baptiſts, and theirs againſt him. Thus much by way of Intro<g ref="char:EOLhyphen"/>duction.</p>
+            <div type="part">
+               <head>The IMPEACHMENT.</head>
+               <p>THat <hi>George Whitehead</hi> and his Brethren, at a Convocation began at <hi>Lon<g ref="char:EOLhyphen"/>don</hi> the fifth day of <hi>May</hi> 1693. ending the eighth day of t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſame Month, did contrive, make, and promulgate ſeveral Conſtitutions <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Ca<g ref="char:EOLhyphen"/>nons Eccleſiaſtical, containing in them divers Matters and Things contra<g ref="char:EOLhyphen"/>ry to the Fundamental Laws and Statutes of the Realm againſt the King's Prerogative, againſt the Rights of Parliaments, againſt the Property and Liberty of the Subject, and Matters tending to Sedition and of dangerous Conſequence, as will abundantly appear by the recited Epiſtle, and that Epiſtle of 1692. a few Inſtances thereof, as proof, I ſhall recite, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The IMPEACHMENT prov'd.</head>
+               <p>
+                  <hi>The Quakers yearly Epiſtle 1693. p. 1.</hi> And therefore that all due care be taken againſt the grand Oppreſſion and Antichriſtian Yoke of Tithes; that our Chriſtian Teſtimony born, and greatly ſuffer'd for, be faithfully maintain'd againſt them in all reſpects, and againſt Steeple-houſe Rates and Lays; as alſo against the Burden and Impoſition of Oaths— That Friends at all their Monthly and Quarterly Meetings be reminded to call for the Records of the Sufferings of Friends; to ſee that they be duly gathered, truly entred and kept, and accordingly ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t up [to <hi>London</hi>] as hath been often adviſed, both of what Tythes, <hi>&amp;c.</hi> are pretended to be due, and for how long a time, and the time when taken, and by, and for whom; and what Goods are taken, and the value thereof, as well as of thoſe not exceeding, as thoſe exceeding the Sums or Quantities [of Tithes] demanded, (it be<g ref="char:EOLhyphen"/>ing a Suffering in both for Truths ſake) they being in theſe Particulars found de<g ref="char:EOLhyphen"/>fective and imperfect in divers Counties, which is an Obſtruction to the General Record of Friends Sufferings, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>OBSERVATION.</head>
+               <p>Friendly Readers and Country men, I having proved my Charge and Impeachment, I cannot but obſerve to you, That the Ground; upon which the Quakers refuſe to pay their Tithes and Church-wardens Rates,
+<pb n="3" facs="tcp:40375:2"/> is not bottom'd upon Scripture proof, but the ſole Authority of theſe their Canons Eccleſiaſtical, made and promulgated at their Yearly Convocati<g ref="char:EOLhyphen"/>on. And where is there a Pariſh in the Dominion of <hi>England</hi> but feels, more or leſs, the ſad Effects and Conſequences of theſe their Anti-Magi<g ref="char:EOLhyphen"/>ſtratical Incroachments; you alſo may ſee their great Ingratitude to the preſent Government, who (notwithſtanding theſe their Affronts) have in<g ref="char:EOLhyphen"/>dulg'd them in the Exerciſe of their Perſwaſion, who at the ſame time call Tithes <hi>An Antichriſtian Yoke;</hi> yea, they will and require their Proſelytes to maintain their Teſtimony againſt the Payments of Tithes in <hi>ALL</hi> reſpects; and that their Monthly and Quarterly Meetings fail not at their peril<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to ſend up to <hi>London,</hi> a true and perfect Inventory of all and ſingular the Diſtreſſes taken for Tithes, whether no more than the value due, or whe<g ref="char:EOLhyphen"/>ther five times the value; all muſt be equally recorded <hi>A Suffering</hi> to Po<g ref="char:EOLhyphen"/>ſterity, that after Generations may ſee in what perillous times the poor Quakers liv'd in, and what ſtorms of ſore Perſecution there was under the Government of King <hi>William</hi> the Third. O horrible ingratitude! thus to render our Legiſlators ſo many Antichriſts, ſo many Perſecutors, nay worſe. See ſome proofs out of their Books to corroborate and ſtrengthen their Canons, that ſo their Loyal and Obedient Subjects may ſtoutly oppoſe Tithes and Church-Rates, <hi>An Antidote, &amp;c.</hi> by <hi>Tho. Ellwood,</hi> p. 78. <hi>Truth allows no payment of Tithes at all under the New Covenant, but condemns it—They who pay Tithes do therein uphold a Legal Ceremony, abrogated by Chriſt; and thereby deny Chriſt to be come in the Fleſh, which is a mark of Antichriſt,</hi> &amp;c. And to prove it he quotes 1 <hi>John.</hi> 4.3. which place of Scripture does not ſo much as mention Tithes. O how miſerably are their poor Diſciples deluded! well may it be ſaid, <hi>The blind lead the blind.</hi> The next Book I ſhall mention is <hi>Burrough</hi>'s Works, p. 780. <hi>Tithes</hi> (ſays he) <hi>as received and paid in theſe days —are of Antichrist.</hi> Again, read his Works <hi>p.</hi> 869. <hi>Antichrist in himſelf is the Man of Sin, the Son of Perdition, which is indeed and in truth the very De<g ref="char:EOLhyphen"/>vil.</hi> Thus Readers, I have ſhewed you by their Convocation Canon, that Tithes are an Antichriſtian Yoke, and by <hi>Burrough</hi>'s Works, Antichriſt is the Devil, ſo that 'tis the Devil's Yoke by Interpretation. See alſo another of their Books, ſtiled <hi>The Ancient Testimony,</hi> &amp;c. <hi>p.</hi> 2. <hi>So it is no new thing that the People of the Lord call d</hi> Quakers <hi>have ſuffer'd ſo deeply for, but the ancient Testimony to the Coming, Death, and Reſurrection of Christ, which they that plead for Tithes in this Goſpel-day do in effect deny,</hi> &amp;c. O horrible! this is yet higher and higher: What? Antichriſts, yea, Devils that plead for Tithes. What? Abſolute deniers of the Coming, Death and Reſurrecti<g ref="char:EOLhyphen"/>on of Chriſt that plead for Tithes. What then are they that take Tithes, pay Tithes, nay that make Laws that Tithes ſhall be paid? Surely there never was ſuch a cenſorious Brood ever hatch'd into the World before Quakeriſm came up.</p>
+               <pb n="4" facs="tcp:40375:3"/>
+               <p>From all which note, That the Quakers hold a Government within the Government; and not only ſo, but which is ſtill worſe, againſt the Go<g ref="char:EOLhyphen"/>vernment; which is bold with a witneſs, and that from plain Matter of Fact: For whereas 'tis enacted by the King, Lords and Commons in Par<g ref="char:EOLhyphen"/>liament, That the Subjects of this Nation ſhall pay their Tenths to ſuch Perſons, and for ſuch Uſes as the Law directs. And by Virtue of this Law and Civil Sanction, the Clergy and Improprietors receive them as a Civil Right. But in oppoſition hereunto, the Quakers Summons two or more of their moſt eminent Elders, belonging to each Quarterly Meet<g ref="char:EOLhyphen"/>ing in <hi>England</hi> and <hi>Wales,</hi> if not the Town of <hi>Berwick upon Tweed,</hi> who, <hi>together</hi> with their Teachers from all parts of the Engliſh Nation, be<g ref="char:EOLhyphen"/>ſides Forreign Parts beyond the Seas, ſit in Council by way of Convoca<g ref="char:EOLhyphen"/>tion, and Ordain and Enact, That Tithes are an Antichriſtian Yoke, a Grand Oppreſſion, and as ſuch ought to be withſtood, teſtified againſt, and that in all Reſpects. And the like may be ſaid touching their prohibiting the Payment of Church Rates and Lays, carrying Guns, which the Quakers by their Edict repeal, ſo far as their Power reaches, in their Convocation, the Laws and Statutes made by King and Parliament, which ſute not their Inclination; and Abſolve the King's Subjects from their Active Obedi<g ref="char:EOLhyphen"/>ence to the Laws of the Land, and cauſe them to adhere to a new Juriſ<g ref="char:EOLhyphen"/>diction lately erected by a few Uſurpers, who hold a Convention Annu<g ref="char:EOLhyphen"/>ally at <hi>London</hi> by way of Convocation, to make Laws and Ordinances contrary and repugnant to the Laws and Statutes of the Realm, which tend to ſubvert the Government, and if not timely prevented, may be of dangerous conſequence; to ſay nothing of divers other of their Laws and Canons Eccleſiaſtical in other of their Yearly Epiſtles, as ſpreading <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir Books up and down the Nation unlicenced, <hi>&amp;c.</hi> Read 25 <hi>H.</hi> 8. <hi>c.</hi> 19, 21. 27 <hi>H.</hi> 8. <hi>c.</hi> 15. 3 <hi>Ed.</hi> 6. <hi>c.</hi> 10, 11. 1 <hi>Eliz. c.</hi> 2. 13 <hi>Eliz. c.</hi> 12. <hi>Magna Charta c.</hi> 29. <hi>Peti<g ref="char:EOLhyphen"/>tion of Right.</hi> 5 <hi>Eliz c.</hi> 1. 1 <hi>Ed.</hi> 6. <hi>c.</hi> 2. 37 <hi>H.</hi> 8. <hi>c.</hi> 17. 8 <hi>Eliz. c.</hi> 1.</p>
+               <p>And to warrant my Impeachment, not only from plain Matter of Fact, ſhewing that the Quakers proceeding, particularly in the Inſtance of Tithes, as well as in twenty things more that might be mentioned, is a<g ref="char:EOLhyphen"/>gainſt the known Laws of the Land, but alſo againſt the declared ſence of the Commons of <hi>England</hi> aſſembled in Parliament. I ſhall recite the Votes of the Houſe of Commons in the Year of our Lord 1640. upon the Biſhops, for ſome certain Incroachments, being impeach'd by Serjeant <hi>Wild,</hi> though not the tenth part ſo bad, nor of ſuch dangerous conſe<g ref="char:EOLhyphen"/>quence as the proceedings of the Quakers, who have not the leaſt co<g ref="char:EOLhyphen"/>lour of Authority for what they do; for the Biſhops had not only a ſhare in the Legiſlative Power, but the King's Majeſties Licence to confirm what they did, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:40375:3"/>
+               <head>The <hi>VOTES</hi> concerning the Biſhops late Book of Canons in the Houſe of Commons.</head>
+               <p>
+                  <hi>That the Clergy of</hi> England <hi>convented in any Convocation or Synod, or otherwiſe, have no Power to make any Conſti<g ref="char:EOLhyphen"/>tutions or Canons, or Act whatſoever, in matter of Doctrine, or otherwiſe, to bind the Clergy or Laity of this Land, with<g ref="char:EOLhyphen"/>out the common conſent in Parliament.</hi>
+               </p>
+               <p>
+                  <hi>That the ſeveral Conſtitutions and Canons Eccleſiaſtical, treated upon by the Arch-Biſhop of</hi> Canterbury <hi>and</hi> York, <hi>Preſi<g ref="char:EOLhyphen"/>dents of the Convocation for their reſpective Provinces, and agreed upon by the King's Majeſties Licence in their reſpective Synods, began at</hi> London <hi>and</hi> York 1640. <hi>do not bind the Cler<g ref="char:EOLhyphen"/>gy or Laity of this Land, or either of them.</hi>
+               </p>
+               <p>Thus we ſee the ſence of the then Houſe of Commons, who would ſuffer no Competitors, nor no Laws nor Ordinances made to bind the People, under any pretence whatſoever (notwithſtanding the Biſhops Power, and the King's Majeſties Licence) but what was made by com<g ref="char:EOLhyphen"/>mon Conſent in Parliament; what then can the Quakers ſay for them<g ref="char:EOLhyphen"/>ſelves, if a ſight of all their yearly Epiſtles, which contain their Laws and Ordinances, for 20 years paſt ſhould be demanded? wherein, and where<g ref="char:EOLhyphen"/>by they have abſolved his Majeſties Subjects from their Active Obedience to divers Laws of the Land, as in this Inſtance of Tithes.</p>
+               <p>
+                  <hi>Object.</hi> Poſſibly ſome may ſay, Were it not better to have Friendly Conferences, that ſo where any thing hath been done or ſaid, either in things Religious or Civil, that cannot be juſtified, might be Retracted and Condemned, rather than thus to expoſe each other.</p>
+               <p>
+                  <hi>Anſw.</hi> I grant it ſo; and from time to time I have proffer'd to meet <hi>George Whitehead</hi> on thoſe terms, but he would never aſſent to it, and un<g ref="char:EOLhyphen"/>leſs he would ingage a Retractation, if need were, or leave Matters of Fact to the Judgment and Deciſion of diſintereſted Perſons, I always refuſed to diſcourſe him. Indeed, in his pretended <hi>Vindication,</hi> &amp;c. in anſwer to my Sheet delivered to the Parliament <hi>Decemb.</hi> 1693. he made this ſeem<g ref="char:EOLhyphen"/>ing fair offer, <hi>p.</hi> 4. <hi>viz. I</hi> George Whitehead <hi>freely offer, and am willing to make it plainly appear before <hi>any</hi> ſix, ten, or twelve competent Witneſſes, who are moderate men of Senſe and common Reaſon, That</hi> Francis Bugg <hi>has groſly and wickedly abuſed and perverted Truth, and wronged the People called Quakers, both in Charge, Citation, and Obſervation.</hi>
+               </p>
+               <p>Now in anſwer to this, I came up to <hi>London</hi> the <hi>February</hi> following (as I remember) and accepted his offer, and offer'd to leave it to any ſix,
+<pb n="6" facs="tcp:40375:4"/> ten, or twelve Perſons by us equally choſen out of the Epiſcopalians, Presbyterians, Independants or Baptiſts, to judge whether I had ſo wrong<g ref="char:EOLhyphen"/>ed them: But he refuſed ſo to do; manifeſting thereby, that he could not find ſix, ten, or twelve moderate men of common Senſe amongſt them all; or elſe that the Quakers Principles were ſo erronious, as that I did not wrong them, either in Charge, Citation, or Obſervation: For other<g ref="char:EOLhyphen"/>wiſe, ſince I left him ſo much Field-room to chooſe his ſix, ten, or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>welve moderate men of common Senſe and Reaſon, as there is in the recited four Chriſtian Societies, and he refuſed to comply therewith, ſurely it muſt be either becauſe he hath not Charity to think there is ſix, ten, or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>welve moderate men to be choſen out of them all: or elſe that he was conſci<g ref="char:EOLhyphen"/>ous to himſelf, that the Quakers Principles are ſo erroneous, their Books ſo blaſphemous, as that I had not wronged them, either in Charge Cita<g ref="char:EOLhyphen"/>tion, or Obſervation. See <hi>Quakeriſm Withering and Chriſtianity Reviving,</hi> p. 1. to 12.</p>
+               <p>And ſince I came to <hi>London</hi> this preſent <hi>May</hi> 1695. I preſented their Yearly Meeting with certain Accuſations againſt <hi>George Whitehead;</hi> the Subſtance of which is as follows: <hi>viz.</hi>
+               </p>
+               <p n="1">1. That <hi>G.W.</hi> is a continual contentious Scribler, guilty of giving baſe and skurrilous names, as Beaſts, Dogs, Wolves, Devils Incarnate, <hi>&amp;c.</hi>
+               </p>
+               <p n="2">2. That <hi>George Whitehead</hi> is guilty of vindicating his own and h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Bre<g ref="char:EOLhyphen"/>threns Books, which teach to deny Jeſus of <hi>Nazareth</hi> to be Chriſt, and the efficient Cauſe of Man's Salvation; To deny the Scriptures by ſpeak<g ref="char:EOLhyphen"/>ing contemptuouſly of them, calling them <hi>Death, Duſt,</hi> and <hi>Serpents Meat;</hi> That to Preach out of them is Conjuration; That it is doubtful whether <hi>Moſes</hi> or <hi>Hermes</hi> was the firſt Penman of the Holy Scriptures; or whether either or neither; preferring their own Books and Epiſtles before the Scriptures; To ſlight, neglect, and deſpiſe the Ordinances of Jeſus Chriſt, as Baptiſm and the Lord's Supper; To under value the Death and Suffer<g ref="char:EOLhyphen"/>ings of our Lord and Saviour Jeſus Chriſt, exalting their own Sufferings as greater and more unjuſt.</p>
+               <p n="3">3. That G. <hi>Whitehead</hi> is a publick Defamer, a wicked Forger, a wilful Lyer, a groſs Perverter, a falſe Gloſſer, a great Deceiver of the People, a Counterfeit Chriſtian, a Scandal to Chriſtianity.</p>
+               <p>Theſe things I have, and now again I offer to make good againſt him before any ſix, ten, or twelve moderate men of Senſe and common Rea<g ref="char:EOLhyphen"/>ſon equally choſen by us both, out of the Epiſcopalians, Presbyterians, Independants and Baptiſts, or out of any one of thoſe four Societ es, al<g ref="char:EOLhyphen"/>ways excepting againſt Quakers and Muggletonians; and do deſire that you may bring him forth, and put him to Anſwer like the wiſe Woman of <hi>Abel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>:</hi> Not that I would have you throw his Head over the Wal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: No; but either let him acknowledge his Wickedneſs, Retract the Errours in his
+<pb n="7" facs="tcp:40375:4"/> own and his Brethrens Books which he hath vindicated, or elſe let 24 of the chief amongſt you come forth, and Condemn the ſame under your Hands, upon proof thereof made to you; if not, I ſhall take it for grant<g ref="char:EOLhyphen"/>ed, that you ſtand by him, and juſtifie him in his Abominations; and thereupon I ſhall Impeach your Yearly Meeting, and maintain your Pro<g ref="char:EOLhyphen"/>ceedings to be againſt the Fundamental Laws of the Land.</p>
+               <p>
+                  <hi>Object.</hi> But grant they will not come forth, and meet you upon theſe reaſonable terms, nor ſuffer their Brother <hi>Whitehead,</hi> in regard they fore<g ref="char:EOLhyphen"/>ſee their Books are erroneous, their Principles dangerous, tending to ſub<g ref="char:EOLhyphen"/>ve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the Chriſtian Faith; and that the natural conſequence of ſuch a Meeting would neceſſitate a Retractation, which would be the utter ruin of Quakeriſm; yet for Peace ſake is it not better to let them alone, who in time will fall of themſelves, for what is not of God cannot ſtand long.</p>
+               <p>
+                  <hi>Anſw.</hi> I have not room in this ſheet fully to anſwer the Obj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ction: But it ſufficeth that we have the Example of the Apoſtles and Martyrs, as a Cloud of Witneſſes, who did not aſſent, nor tamely ſuffer that Wo<g ref="char:EOLhyphen"/>man <hi>Jezabel</hi> to teach and ſeduce the Nations, but as Inſtruments in God's hand, witneſſed againſt all kind of Hereſies in their day; and many of them ſealed their Teſtimony with their Blood. And what He<g ref="char:EOLhyphen"/>reticks ever held greater Errors than the Quakers? and prevail'd more with the People to ſuck them in, even whilſt the Wiſe and the I earned take little notice of their growth, and the danger of it. I grant the <hi>A<g ref="char:EOLhyphen"/>ri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n</hi> Hereſie continued long, even 300 years, before it dwindled and wi<g ref="char:EOLhyphen"/>thered away; and lamentable were the conſequences of it; yet they were witneſſed againſt by divers Biſhops and Learned Men. The Pope and his Superſtitions, have not gone on without many Teſtimonies againſt the dangerous conſequences of his Errours, and that with good Succeſs too. Our famous <hi>John Wickliff,</hi> an <hi>Oxford</hi> Scholar, as Hiſtory ſaith, wrote more than 200 Volumes againſt the Pope and his Religious Orders; yet none but Papiſts accounted him a contentious Apoſtate. No: he was an eminent Inſtrument in the hand of God; and I hope we have ſome ſuch Scholars ſtill in that, and the other famous Univerſity, who, as they become ſenſible of the dangerous Errours of our Quickſilver Tribe, I mean <hi>NEW ROME,</hi> and know where to fix upon them and their inviſible Tenets, which at preſent they mask under diſguiſe, pretending to own in Words, being examined, what by their Books they deny. And indeed their Books are of two ſorts, and carry two faces; the one to the World, the other to be read only amongſt their Friends, as I elſe<g ref="char:EOLhyphen"/>where have largely manifeſted, inſomuch that 'tis hard to know a Quaker; who, as <hi>Irenaeus</hi> of old ſaid in his third Book againſt Hereticks, <hi>viz. Whilſt Hereticks ſpeak like the faithful, they not only mean otherwiſe than they ſay, but
+<pb n="8" facs="tcp:40375:5"/> clean contrary; and by their Tenets full of Blaſphemy, they deſtroy the Souls of thoſe, who with their fair words, ſuck in the Poiſon of their foul Opinions,</hi> &amp;c. Inſomuch that what the Learned Dr. <hi>Stillingfleet,</hi> now Biſhop of <hi>Worceſter,</hi> ſaid in his <hi>Diſcourſe of Idolatry,</hi> &amp;c. p. 282. is more than probable; <hi>vi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Yet any one who compares them,</hi> (i. e. Quakers and Jeſuits) <hi>would imagin the Life of</hi> Ignatius <hi>had been their great Exemplar: I know not</hi> (ſaid the Dr.) <hi>whether any of that Innocent and Religious Order of the Jeſuits had any hand in forming this new Society amongſt us, as hath been frequently ſuggeſted: but if one may gueſs the Father by the Child's likeneſs,</hi> Ignatius Loyola <hi>the Founder of the Jeſu<g ref="char:EOLhyphen"/>its, was at least the Grandfather of the Quakers,</hi> &amp;c. Of which more here<g ref="char:EOLhyphen"/>after, if need be.</p>
+               <p>However our famous <hi>Wickliff</hi> pav'd the way for great <hi>Luther</hi> in <hi>Germany,</hi> who was wonderfully carried on, even as upon Angels wings, who both by word and writing teſtified againſt the Pope and his holy Cheats, which made the Papiſts rave and roar, fret and fume, calling him Apoſtate, Self-condemn'd Apoſtate, inſomuch that all mens minds ſtood (as it were) up<g ref="char:EOLhyphen"/>on their Tiptoes, to ſee the Iſſue of Pope <hi>Leo</hi>'s rage, and brave <hi>Luther</hi>'s courage, who went on undauntedly, writing many Books, and by verbal Diſputations, until he finiſhed both his Days and Teſtimony; of whom <hi>Be<g ref="char:EOLhyphen"/>za</hi> ſaid,
+<q>
+                     <l>
+                        <hi>Rome</hi> tam'd the World, the Pope tam'd <hi>Rome</hi> ſo great;</l>
+                     <l>
+                        <hi>Rome</hi> Rul'd by Power, the Pope by deep Deceit.</l>
+                     <l>But how more large than theirs was <hi>Luth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r</hi>'s Fame,</l>
+                     <l>Who with one Pen both Pope and <hi>Rome</hi> doth tame.</l>
+                     <l>Go fictious <hi>Greece,</hi> go tell <hi>Alcides</hi> then,</l>
+                     <l>His Club is nothing to great <hi>Luther</hi>'s Pen.</l>
+                  </q>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>NOte Reader, that as their Books are of two ſorts, ſo are their Meetings; at one ſort the Doors ſtand open, that all may go in, and hear ſome general Truths a little mixt with Nonſence and Errour: the o<g ref="char:EOLhyphen"/>ther ſort, <hi>viz.</hi> their Yearly Meetings, the Doors ſhut, and a Guard to keep out and let in whom they pleaſe; for I was willing to appear at <hi>New Romes</hi> Yearly Meeting, to demand Juſtice againſt <hi>G. Whitehead,</hi> who pretended to meet me before <hi>any</hi> ſix, ten, or twelve men, to make it appear, that I had wronged them in Charge, Citation and Obſervation, yet refuſed; but they would not let me come into their Meeting; which ſhews tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>New Rome</hi> grows timerous, and that her Foundation is ſhaken, and that her two Pillars upon which ſhe leans, to wit, Infallibility and Perfection, be<g ref="char:EOLhyphen"/>gin to totter and ſhake, ſo that ſhe cannot ſtand long.</p>
+            <closer>
+               <signed>Francis Bugg.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for the Author, and are to be ſold by <hi>John Guillam</hi> in <hi>Biſhopſgate-ſtreet.</hi> 1695.</p>
+            <pb facs="tcp:40375:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
